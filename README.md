@@ -16,7 +16,7 @@ To encrypt a file:
 python script.py -i test_input.txt -o output.bin -e 
 
 ### Decryption 
-To encrypt a encrypted file:
+To decrypt a encrypted file:
 python script.py -i output.bin -o original_back.txt -d
 
 
